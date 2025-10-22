@@ -13,7 +13,7 @@ const mongoose = require("mongoose"); // ✅ MongoDB এর জন্য
 // =====================
 const BOT_TOKEN = "8307883574:AAGAfSeGo-VrjJeoait3urC3dhV19QNXPKc"; // ← তোমার টেলিগ্রাম বট টোকেন
 const PORT = 3000; // সার্ভার পোর্ট
-const WEB_URL = "https://zachery-unscared-garry.ngrok-free.dev"; // ← তোমার ওয়েবসাইট বা ngrok URL
+const WEB_URL = "https://monetag-87l6.onrender.com/"; // ← তোমার ওয়েবসাইট বা ngrok URL
 const MONGO_URI = "mongodb+srv://MyDatabase:Cp8rNCfi15IUC6uc@cluster0.kjbloky.mongodb.net/"; // ← তোমার MongoDB URI
 
 // =====================
